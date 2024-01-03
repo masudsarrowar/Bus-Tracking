@@ -1,0 +1,7 @@
+BusNo , Starting Point , Ending Point,     Time,     Cost   
+1      / UIU Campus       / NotunBazar       / 7.00    /700
+2      / UIU Campus       / NotunBazar       / 8.00    /700
+3      / UIU Campus       / NotunBazar       / 9.00	/700
+4      / UIU Campus       / NotunBazar       / 10.00 	/700
+5      / UIU Campus       / NotunBazar       / 11.00 	/700
+6      / UIU Campus       / NotunBazar       / 12.00	/700
